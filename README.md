@@ -1,4 +1,4 @@
-# photon-js
+# photonic-js
 
 https://sudonull.com/post/69577-Drawing-thick-lines-in-WebGL
 
